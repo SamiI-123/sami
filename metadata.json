@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Plant Disease Identifier by sami",
+  "description": "Identify plant diseases from images using AI.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "prompt": ""
+}
